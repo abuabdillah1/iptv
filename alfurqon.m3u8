@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://github.com/abuabdillah1/iptv/blob/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1695657535/ei/31kRZbejAsXk8wSmnqnICw/ip/172.177.150.118/id/ebDAyevAiPo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-p5qlsn7l.googlevideo.com/spc/UWF9f1kMD8hKPKHANiFV6iopFPTBGh-EC2ieuri0BQ/vprv/1/playlist_type/LIVE/mh/NP/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1695634799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhALzCHkA37LY4TYw1vwdh4An1lJ6GO808riO8d4x2cg3HAiEAqzyKtPpt3AtHNieTskGctpmH1njZ1-cd8rA67zZ6tbM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAPiGrnykKupuAcw1kEmVmbzo2IyKCBxnlcPQmzPjZV5SAiBILfUy09vTp7H0X22IjrSWHhoB0qLNircweptKfHJusw%3D%3D/playlist/index.m3u8
