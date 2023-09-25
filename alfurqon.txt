@@ -1,0 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+channel-name | | |
+https://www.youtube.com/embed/live_stream?channel=UC2FIGD4FVOSWL61jz_yd3HA
